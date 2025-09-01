@@ -38,21 +38,6 @@ export const ContactSection = () => {
 
                     <div className="flex items-start space-x-4">
                         <div className="p-3 rounded-full bg-primary/10">
-                            <Phone className="h-6 w-6 text-primary" />{" "}
-                        </div>
-                        <div className="ml-5">
-                            <h4 className="font-medium"> Phone</h4>
-                            <a
-                                href="tel:+13065515301"
-                                className="text-muted-foreground hover:text-primary transition-colors"
-                            >
-                                +1 (306) 551-5301
-                            </a>
-                        </div>
-                    </div>
-
-                    <div className="flex items-start space-x-4">
-                        <div className="p-3 rounded-full bg-primary/10">
                             <MapPin className="h-6 w-6 text-primary" />{" "}
                         </div>
                         <div className="ml-3">
